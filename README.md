@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @ntwkrgr
-- 👀 Network Analyst
-- 🌱 Master's student at ASU
-- 📫 Discord: @charlos#1718
+- 👀 Network Engineer
+- 🌱 MS in Computer Science
