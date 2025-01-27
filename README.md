@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @ntwkrgr
 - 👀 Network Engineer
+- 🎓 CompSci MS Degree
