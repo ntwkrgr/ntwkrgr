@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @ntwkrgr
-- 👀 Network Engineer
-- 🎓 CompSci MS Degree
+- 👨‍💻 Network Engineer
+- 🎓 MS in CS
+- 🗓️ 15 years in IT
+- ⚾ Go Rangers
