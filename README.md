@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ntwkrgr
 - 👨‍💻 Network Engineer
 - 🎓 MS in CS
-- 🗓️ 15 years in IT
 - ⚾ Go Rangers
