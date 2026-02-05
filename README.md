@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ntwkrgr
 - 👨‍💻 Network Engineer
 - 🎓 MS in CS
-- ⚾ Go Rangers
+- ⚾ 0xba5eba11
